@@ -2,7 +2,8 @@
   <div id="nav">
     <router-link to="/">Главная</router-link> |
     <router-link :to="{name: 'Standard'}">Standard</router-link> |
-    <router-link :to="{name: 'Composition'}">Composition API</router-link>
+    <router-link :to="{name: 'Composition'}">Composition API</router-link> |
+    <router-link :to="{name: 'Vanilla'}">Vanilla JS</router-link>
   </div>
   <router-view/>
 </template>
