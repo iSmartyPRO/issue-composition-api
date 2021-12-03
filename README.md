@@ -15,7 +15,12 @@
 
 **Буду очень благодарен** за адекватную помошь в решении миграции в Composition API.
 
+## GitHub
 
+```
+git clone https://github.com/iSmartyPRO/issue-composition-api.git
+cd issue-composition-api
+```
 
 ## Project setup
 ```

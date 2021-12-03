@@ -28,4 +28,13 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+.space50 {
+  height: 50px;
+}
+.space100 {
+  height: 100px;
+}
+.hidden {
+  display: none;
+}
 </style>
